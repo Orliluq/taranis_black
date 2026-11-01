@@ -1,4 +1,4 @@
-# ◼️ TARANIS BLACK — Brand Board
+# ◼️ TARANIS BLACK
 
 <p align="center">
   <strong>Identidade de marca · Design editorial · Experiência digital</strong>
@@ -19,6 +19,126 @@
   <img src="https://img.shields.io/badge/Git-Git%20versioning-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-Version%20control-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+---
+
+## 🤖 Assistente de IA — TARANIS BLACK | CONTENT STUDIO
+
+Como parte do projeto, foi configurado um assistente personalizado no **Google Gemini**, denominado:
+
+**TARANIS BLACK | CONTENT STUDIO**
+
+O Gem foi concebido para apoiar a criação, adaptação e revisão de conteúdos de marketing, mantendo consistência com as diretrizes editoriais e a identidade de comunicação da marca.
+
+🔗 **Acessar o Gem:**  
+https://gemini.google.com/gem/1fX_fQsahsnOMoU6LwhemdafIKvfR00Hg?usp=sharing
+
+### 🎯 Objetivos do assistente
+
+- Apoiar a produção de conteúdo para diferentes canais.
+- Preservar a identidade verbal da marca.
+- Adaptar conteúdos para LinkedIn, Instagram e e-mail.
+- Manter consistência entre formatos e plataformas.
+- Apoiar a criação de textos e direcionamentos visuais.
+- Revisar conteúdos antes da publicação.
+- Reduzir o retrabalho editorial por meio de instruções padronizadas.
+
+### 🗣️ Pilares de comunicação
+
+O assistente utiliza quatro pilares de tom de voz:
+
+| Pilar | Diretriz |
+|---|---|
+| 🔬 Científico | Comunicação fundamentada, precisa e responsável. |
+| 💚 Empático | Atenção às necessidades das pessoas e dos públicos. |
+| ◼️ Sofisticado | Linguagem premium, clara e consistente. |
+| ✨ Descomplicado | Explicações acessíveis, diretas e naturais. |
+
+### 🧠 Diretrizes de funcionamento
+
+O Gem foi configurado para:
+
+- Considerar os materiais oficiais e documentos de referência disponibilizados.
+- Não inventar dados, especificações, certificações ou benefícios.
+- Diferenciar informações documentadas de sugestões criativas.
+- Adaptar a linguagem conforme o canal de comunicação.
+- Considerar a identidade verbal e visual da marca.
+- Sinalizar informações que precisam de validação.
+- Respeitar princípios de privacidade e proteção de dados.
+- Manter a revisão humana como etapa obrigatória antes da publicação.
+
+### 📱 Canais contemplados
+
+| Canal | Aplicação |
+|---|---|
+| LinkedIn | Conteúdo institucional, educativo e profissional. |
+| Instagram | Conteúdo visual, carrosséis e comunicação de marca. |
+| E-mail | Comunicação editorial e relacionamento com o público. |
+
+### 👩🏻‍💻 Supervisão humana
+
+O assistente funciona como apoio à produção de conteúdo, não como mecanismo de publicação autônoma.
+
+Os textos, imagens, informações técnicas, referências e chamadas para ação devem passar por revisão humana antes de serem utilizados.
+
+A validação é especialmente importante para afirmações sobre ergonomia, saúde, produtividade, conformidade normativa e características dos produtos.
+
+---
+
+## 📚 Documentação e materiais do projeto
+
+O desenvolvimento do projeto foi apoiado por materiais de referência, documentos de planejamento e entregáveis organizados no Google Drive.
+
+### ☁️ Google Drive — Repositório de evidências
+
+🔗 **Acessar a pasta do projeto:**  
+https://drive.google.com/drive/folders/1tXP27D9qVyU6OtLYAf4c-lnh-mynd5Sr?usp=sharing
+
+A pasta funciona como índice de consulta dos materiais e evidências produzidos durante o Challenge ONE G11.
+
+Entre os materiais relacionados ao trabalho estão:
+
+- Documentação estratégica da Taranis Black.
+- Materiais de referência para a Rota 2 — Marketing e Conteúdo.
+- Instruções e configuração do assistente Gem.
+- Materiais de planejamento editorial.
+- Direcionamentos visuais e referências de campanha.
+- Documentos de governança e gestão de IA.
+- Planilhas e artefatos de apoio às entregas.
+
+A disponibilidade de cada arquivo depende das permissões de compartilhamento configuradas no Google Drive.
+
+### 📄 Relatório executivo — Challenge ONE G11
+
+O relatório executivo reúne a documentação principal da entrega, incluindo a base estratégica obrigatória (Rota 0) e a especialização em IA para Marketing e Conteúdo (Rota 2).
+
+🔗 **Acessar o relatório no Google Docs:**  
+https://docs.google.com/document/d/1mFZ-ETB9tbLQ5LlRSopLubiFw5IH6Fxd/edit
+
+### 🗂️ Organização dos materiais
+
+| Recurso | Finalidade | Acesso |
+|---|---|---|
+| Brand Board | Apresentação da identidade visual e editorial. | [Repositório GitHub](https://github.com/Orliluq/taranis_black) |
+| Gem — CONTENT STUDIO | Assistente personalizado para marketing e conteúdo. | [Google Gemini](https://gemini.google.com/gem/1fX_fQsahsnOMoU6LwhemdafIKvfR00Hg?usp=sharing) |
+| Relatório executivo | Documentação principal do Challenge. | [Google Docs](https://docs.google.com/document/d/1mFZ-ETB9tbLQ5LlRSopLubiFw5IH6Fxd/edit) |
+| Pasta de evidências | Índice dos materiais e artefatos do projeto. | [Google Drive](https://drive.google.com/drive/folders/1tXP27D9qVyU6OtLYAf4c-lnh-mynd5Sr?usp=sharing) |
+
+> **Nota sobre acesso:** os links externos dependem das permissões de compartilhamento de cada recurso. Recomenda-se testar o acesso em uma janela anônima antes de apresentar o projeto a avaliadores ou terceiros.
+
+---
+
+## 🧭 Visão integrada do projeto
+
+O ecossistema TARANIS BLACK combina três frentes complementares:
+
+| Frente | Papel no projeto |
+|---|---|
+| 🎨 Brand Board | Organiza e apresenta a proposta de identidade visual e editorial. |
+| 🤖 Gemini Gem | Apoia a aplicação das diretrizes de comunicação na produção de conteúdo. |
+| 📚 Google Drive e Docs | Centralizam documentação, materiais de referência e evidências do trabalho. |
+
+Essa integração demonstra uma abordagem que conecta identidade de marca, inteligência artificial, produção de conteúdo e desenvolvimento de experiências digitais.
 
 ---
 
@@ -281,6 +401,16 @@ A proposta é explorar como tecnologia e comunicação podem trabalhar juntas pa
 Este projeto foi desenvolvido como parte de um trabalho de criação e apresentação de identidade de marca.
 
 Não há uma licença de uso ou redistribuição definida neste documento. A utilização de imagens, marcas, materiais de terceiros e conteúdos associados deve respeitar seus respectivos direitos e permissões.
+
+---
+
+## 👩🏻‍💻 Desenvolvimento e autoria
+
+**Idealizado, estruturado e desenvolvido por Orli Dun.**
+
+O projeto integra atividades de pesquisa, organização de informações, configuração de um assistente de IA, planejamento editorial, direção visual e desenvolvimento frontend.
+
+A proposta é demonstrar como diferentes ferramentas digitais podem trabalhar em conjunto para estruturar uma experiência de marca consistente, documentada e preparada para evoluir.
 
 ---
 
