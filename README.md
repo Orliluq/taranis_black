@@ -30,8 +30,9 @@ Como parte do projeto, foi configurado um assistente personalizado no **Google G
 
 O Gem foi concebido para apoiar a criação, adaptação e revisão de conteúdos de marketing, mantendo consistência com as diretrizes editoriais e a identidade de comunicação da marca.
 
-🔗 **Acessar o Gem:**  
-https://gemini.google.com/gem/1fX_fQsahsnOMoU6LwhemdafIKvfR00Hg?usp=sharing
+<a href="https://gemini.google.com/gem/1fX_fQsahsnOMoU6LwhemdafIKvfR00Hg?usp=sharing" target="_blank" rel="noopener noreferrer">
+  🔗 Acessar o Gem
+</a>
 
 ### 🎯 Objetivos do assistente
 
@@ -112,8 +113,9 @@ A disponibilidade de cada arquivo depende das permissões de compartilhamento co
 
 O relatório executivo reúne a documentação principal da entrega, incluindo a base estratégica obrigatória (Rota 0) e a especialização em IA para Marketing e Conteúdo (Rota 2).
 
-🔗 **Acessar o relatório no Google Docs:**  
-https://docs.google.com/document/d/1mFZ-ETB9tbLQ5LlRSopLubiFw5IH6Fxd/edit
+<a href="https://docs.google.com/document/d/1mFZ-ETB9tbLQ5LlRSopLubiFw5IH6Fxd/edit" target="_blank" rel="noopener noreferrer">
+  🔗 Acessar o relatório no Google Docs
+</a>
 
 ### 🗂️ Organização dos materiais
 
@@ -390,11 +392,13 @@ Este projeto reúne conhecimentos de desenvolvimento frontend, organização de 
 
 A proposta é explorar como tecnologia e comunicação podem trabalhar juntas para transformar informações em experiências digitais claras, funcionais e visualmente consistentes.
 
-🔗 **Portfólio:** https://orlidun.vercel.app/
+<a href="https://orlidun.vercel.app/" target="_blank" rel="noopener noreferrer">
+  🔗 Meu mundo digital
+</a>
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/orlibetdungonzalez/
-
-🔗 **GitHub:** https://github.com/Orliluq
+<a href="https://www.linkedin.com/in/orlibetdungonzalez/" target="_blank" rel="noopener noreferrer">
+  🔗 LinkedIn
+</a>
 
 ## 📄 Licença
 
