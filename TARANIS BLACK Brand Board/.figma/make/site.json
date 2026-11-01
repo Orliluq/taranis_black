@@ -1,0 +1,10 @@
+{
+  "description": "Explore TARANIS BLACK’s premium brand identity, with complete Spanish and Brazilian Portuguese guides for corporate teams and clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
