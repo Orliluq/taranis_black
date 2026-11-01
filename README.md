@@ -396,6 +396,8 @@ A proposta é explorar como tecnologia e comunicação podem trabalhar juntas pa
   🔗 Meu mundo digital
 </a>
 
+</br>
+
 <a href="https://www.linkedin.com/in/orlibetdungonzalez/" target="_blank" rel="noopener noreferrer">
   🔗 LinkedIn
 </a>
